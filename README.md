@@ -23,7 +23,14 @@ https://github.com/nicholastmosher/PID
 https://github.com/tekdemo/MiniPID
 
 
+PRU:
+http://exploringbeaglebone.com/chapter13/
+https://github.com/Greg-R/pru-pid-motor
 
+http://processors.wiki.ti.com/index.php/PRU_Training:_Hands-on_Labs
+http://beagleboard.org/pru
+https://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2013/05/22/bbb--working-with-the-pru-icssprussv2
+https://beagleboardfoundation.wordpress.com/2016/12/31/motor-speed-control-using-beaglebone-pru/
 
 Other:
 
