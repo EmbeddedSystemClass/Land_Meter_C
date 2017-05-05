@@ -2,6 +2,7 @@
 Land Meter Embedded Program in C++
 Book:
 http://exploringbeaglebone.com/
+http://exploringbeaglebone.com/API/ExploringBeagleBoneAPI.pdf
 
 
 
