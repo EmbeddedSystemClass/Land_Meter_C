@@ -13,7 +13,8 @@ http://blacklib.yigityuce.com/downloads.html
 http://beagleboard.org/project/BBB/
 
 
-
+PWM:
+https://groups.google.com/forum/#!topic/beagleboard/dkS51WbicTo
 
 
 PID:
