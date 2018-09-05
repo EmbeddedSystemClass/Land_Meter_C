@@ -73,7 +73,7 @@ Flow:
 5)  Log issues, set sys not ready flag, heater
 6)  Begin main{}
 7)  Heaters, update heater ready flag
-8)  Levels, update levels ready flag
+8)  Levels, update levels ready flag.  Update every 0.1 sec.
 9)  Check for comm
 10) Shaft positioning, encoder, arrestment motor, update status and position when complete
 11) Set PWM
